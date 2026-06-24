@@ -1,28 +1,34 @@
-# Forward Reverse Motor Control
-
-## Overview
-
-This project was created in CODESYS to understand how forward and reverse motor control works in PLC programming.
+# 03 Forward Reverse Motor Control
 
 ## Objective
 
-The goal was to control a motor in both forward and reverse directions while preventing both directions from being active at the same time.
+Create a PLC program that allows a motor to run in either forward or reverse direction while preventing both directions from being energized simultaneously.
+
+## Concepts
+
+- Motor Control
+- Latching
+- Electrical Interlocking
+- Safety Logic
+
+## Inputs
+
+- Start_FWD
+- Start_REV
+- Stop
+
+## Outputs
+
+- Motor_FWD
+- Motor_REV
 
 ## Features
 
-- Forward button
-- Reverse button
-- Stop button
-- Interlocking logic
-- Safe direction switching
+- Forward operation
+- Reverse operation
+- Stop functionality
+- Interlocking protection
 
-## What I Learned
+## Learning Outcome
 
-- How PLC interlocking works
-- How contacts and coils interact
-- Why motor direction protection is important
-- Basic industrial motor control concepts
-
-## Software Used
-- CODESYS
-
+Learned how interlocking is used in industrial motor control circuits to prevent unsafe operation.
