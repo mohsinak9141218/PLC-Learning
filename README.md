@@ -17,12 +17,14 @@ CODESYS PLC projects built while learning industrial automation and control syst
 * NO and NC Pushbuttons
 * Series (AND) and Parallel (OR) Logic
 
-### 03 Forward Reverse Motor Control
+### 03 Conveyor Box Detector
 
-* Forward and Reverse Motor Operation
-* Electrical Interlocking
-* Safe Direction Switching
-* NO/NC Contacts and Coils
+- Conveyor Motor Control
+- Start/Stop Pushbutton Logic
+- Seal-In (Holding) Circuit
+- Photoelectric Sensor Interlock
+- Automatic Shutdown
+- Start Inhibit When Sensor is Blocked
 
 ## Software Used
 
