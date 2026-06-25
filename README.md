@@ -26,6 +26,14 @@ CODESYS PLC projects built while learning industrial automation and control syst
 - Automatic Shutdown
 - Start Inhibit When Sensor is Blocked
 
+### 04 Dual-Station Pump Control
+
+- Dual Operator Stations
+- Parallel Start Logic
+- Series Stop Logic
+- Stop Priority (Fail-Safe)
+- Industrial Pump Control
+
 ## Software Used
 
 * CODESYS
