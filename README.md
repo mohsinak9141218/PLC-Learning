@@ -42,6 +42,30 @@ CODESYS PLC projects built while learning industrial automation and control syst
 - Master Start/Stop Control
 - Industrial Pump Sequencing
 
+### 06 Automatic Batch Boxing Station
+
+- Up-Counter (CTU) Integration
+- Dwell Timing using TON
+- Multi-Network Sequential Interlocking
+- Conveyor Stop & Gate Actuation Flow
+- Automated Pulse Reset
+
+### 07 Industrial Tank Level Control
+
+- Process Control Foundations
+- Dual-Threshold Float Switch Logic
+- Hysteresis Loop Pump Control
+- Overflow Prevention Interlocks
+- Low/High Alarm Indication
+
+### 08 Pump Alternation Control
+
+- Lead/Lag Dual-Pump Strategy
+- Duty Cycle Balancing
+- Alternation Toggle Logic
+- Backup Pump Staging
+- System Redundancy & Wear Leveling
+
 ## Software Used
 
 * CODESYS
