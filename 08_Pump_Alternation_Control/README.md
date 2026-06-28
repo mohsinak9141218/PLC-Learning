@@ -1,4 +1,4 @@
-# Project 08: Pump Alternation Control (Lead/Lag)
+# Project 08: Pump Alternation Control (Lead & Lag)
 
 ## Project Description
 This project implements a dual-pump alternation strategy (often called Lead/Lag control) in CODESYS. In industrial utility systems, running a single pump continuously causes uneven mechanical wear and premature failure. This project introduces the automation logic required to balance runtime hours by alternating the primary ("lead") pump role between two assets every time a cycle runs, while keeping the secondary ("lag") pump ready as a backup.
@@ -31,4 +31,4 @@ This is a critical strategy used in industrial water processing, HVAC chilled wa
 ---
 
 ## Simulation & Verification
-*(Paste your CODESYS simulation screenshots here showing Pump 1 running on cycle one, Pump 2 running on cycle two, and both pumps running during a high-demand lag condition)*
+*(screenshots here showing Pump 1 running on cycle one, Pump 2 running on cycle two, and both pumps running during a high-demand lag condition)*
