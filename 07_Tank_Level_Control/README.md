@@ -32,4 +32,3 @@ This project is highly relevant to industrial fluid handling and water treatment
 ---
 
 ## Simulation & Verification
-*(Paste your CODESYS simulation screenshots here showing the logic states during filling, tank full, and low-level trip conditions)*
