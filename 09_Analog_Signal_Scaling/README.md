@@ -28,3 +28,4 @@ $$Scaled\ Value = \left(\frac{Raw\ Input - Raw\ Min}{Raw\ Max - Raw\ Min}\right)
 * **0% Capacity (4mA):** Raw Input = `0`   --> Scaled Output = `0.0 L`
 * **50% Capacity (12mA):** Raw Input = `16383` --> Scaled Output = `250.0 L`
 * **100% Capacity (20mA):** Raw Input = `32767` --> Scaled Output = `500.0 L`
+
