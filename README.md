@@ -66,6 +66,16 @@ CODESYS PLC projects built while learning industrial automation and control syst
 - Backup Pump Staging
 - System Redundancy & Wear Leveling
 
+
+### 09 PID Flow Control with Analog Scaling & Safety Interlocks
+
+- Analog Input Signal Scaling
+- Engineering Unit Conversion
+- PID Closed-Loop Flow Control
+- Analog Output Valve Control
+- High/Low & High-High/Low-Low Alarm Logic
+- Safety Interlocks & Emergency Shutdown (ESD)
+
 ## Software Used
 
 * CODESYS
