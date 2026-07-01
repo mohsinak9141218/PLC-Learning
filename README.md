@@ -42,13 +42,13 @@ CODESYS PLC projects built while learning industrial automation and control syst
 - Master Start/Stop Control
 - Industrial Pump Sequencing
 
-### 06 Automatic Batch Boxing Station
+### 06 Basic Bottle Counter
 
-- Up-Counter (CTU) Integration
-- Dwell Timing using TON
-- Multi-Network Sequential Interlocking
-- Conveyor Stop & Gate Actuation Flow
-- Automated Pulse Reset
+- Language: Ladder Diagram (LD)
+- Count Engine: IEC 61131-3 Up-Counter (CTU) for edge-triggered object tracking
+- Digital Signal Processing: Input transition handling without external pulse blocks
+- Interlocking Logic: Disabling conveyor movement via counter state bits
+- Manual Reset Control: Operator-driven pushbutton clearing of runtime accumulation
 
 ### 07 Industrial Tank Level Control
 
@@ -66,7 +66,6 @@ CODESYS PLC projects built while learning industrial automation and control syst
 - Backup Pump Staging
 - System Redundancy & Wear Leveling
 
-
 ### 09 PID Flow Control with Analog Scaling & Safety Interlocks
 
 - Analog Input Signal Scaling
@@ -78,7 +77,8 @@ CODESYS PLC projects built while learning industrial automation and control syst
 
 ## Software Used
 
-* CODESYS
+* CODESYS V3.5 IDE
+* Programming Language: Ladder Diagram (LD)
 
 ## Author
 
