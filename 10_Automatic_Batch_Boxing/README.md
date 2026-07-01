@@ -1,4 +1,4 @@
-# Project 06: Automatic Batch Boxing Station
+# Project 10: Automatic Batch Boxing Station
 
 ## Project Description
 This project implements a multi-network batch counting and timing sequence in CODESYS. The system automates a factory line where bottles are transported via a conveyor belt, counted by a proximity sensor, packed into a box, and automatically diverted once the box reaches capacity. 
